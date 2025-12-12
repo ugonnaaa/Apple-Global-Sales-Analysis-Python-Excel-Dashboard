@@ -50,5 +50,18 @@ Designed an Excel dashboard using:
 - Summary tables
 - Consolidated visuals into a single analytics page
 
-## Python code used for data joining
+## Python Script (Used for Table Joins)
 - <a href= "https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset?resource=download&select=sales.csv](https://github.com/ugonnaaa/Apple-Global-Sales-Analysis-Python-Excel-Dashboard/blob/main/APPLE%20RETAIL%20SALE.ipynb">Python code</a>
+
+## Key Insights
+- Wearables, Smartphones, and Accessories are among the highest-selling categories
+- The USA, Japan, China, Germany, and the UK contribute the largest sales volumes
+- Cities like Dubai, London, Los Angeles, and Tokyo dominate sales performance
+- Monthly sales trends show strong Q3–Q4 activity
+- Quantity sold remains consistent year-to-year with slight growth
+
+## Repository Structure
+- APPLE RETAIL SALE.ipynb — code for loading and merging datasets
+- we_knows_full.csv — cleaned and fully joined dataset
+- regional sales dashboard.png — pivot tables and dashboard
+- README.md — project documentation
