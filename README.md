@@ -4,3 +4,9 @@ This project analyzes global Apple product sales using a dataset from Kaggle. I 
 
 ## Dataset used 
 - <a href= "https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset?resource=download&select=sales.csv">Dataset</a>
+
+## Objectives
+- Combine multiple relational tables into a single dataset
+- Clean and format the data for analysis
+- Build pivot tables to summarize global sales trends
+- Develop an Excel dashboard showing key performance indicators
