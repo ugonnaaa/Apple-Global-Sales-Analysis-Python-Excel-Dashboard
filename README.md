@@ -51,7 +51,10 @@ Designed an Excel dashboard using:
 - Consolidated visuals into a single analytics page
 
 ## Python Script (Used for Table Joins)
-- <a href= "https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset?resource=download&select=sales.csv](https://github.com/ugonnaaa/Apple-Global-Sales-Analysis-Python-Excel-Dashboard/blob/main/APPLE%20RETAIL%20SALE.ipynb">Python code</a>
+- <a href= "https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset?resource=download&select=sales.csv](https://github.com/ugonnaaa/Apple-Global-Sales-Analysis-Python-Excel-Dashboard/blob/main/APPLE%20RETAIL%20SALE.ipynb">Python script</a>
+
+## Dashboard
+<img width="794" height="275" alt="regional sales dashboard" src="https://github.com/user-attachments/assets/7c2ab101-ef57-4590-aae6-9d353f84914d" />
 
 ## Key Insights
 - Wearables, Smartphones, and Accessories are among the highest-selling categories
