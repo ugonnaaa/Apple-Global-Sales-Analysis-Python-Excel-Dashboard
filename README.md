@@ -56,7 +56,8 @@ Designed an Excel dashboard using:
 ## Dashboard
 <img width="778" height="304" alt="regional retail sales dashboard" src="https://github.com/user-attachments/assets/1c361367-2df5-4871-87b4-d4ddc1ca04e7" />
 
-<img width="750" height="287" alt="image" src="https://github.com/user-attachments/assets/67bd50b9-0833-4cb6-b604-147319aeca21" />
+<img width="778" height="304" alt="image" src="https://github.com/user-attachments/assets/9f154c30-bc6a-4fa2-97d7-5e2488b9087a" />
+
 
 
 ## Key Insights
