@@ -1,6 +1,6 @@
 # Apple-Global-Sales-Analysis-Python-Excel-Dashboard
 ## Project Summary
-This project analyzes global Apple product sales using a dataset from Kaggle. I used Python (Pandas) to merge multiple tables into a unified dataset and Excel for data cleaning, pivot tables, and dashboard creation. The goal was to extract insights on product performance, geographic sales patterns, and yearly/monthly trends.
+This project analyzes global Apple product sales using a dataset from Kaggle. I used Python (Pandas) to merge multiple tables into a unified dataset, and Excel for data cleaning, creating pivot tables, and dashboard development. The goal was to extract insights on product performance, geographic sales patterns, and yearly/monthly trends.
 
 ## Dataset used 
 - <a href= "https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset?resource=download&select=sales.csv">Dataset</a>
@@ -56,6 +56,9 @@ Designed an Excel dashboard using:
 ## Dashboard
 <img width="778" height="304" alt="regional retail sales dashboard" src="https://github.com/user-attachments/assets/1c361367-2df5-4871-87b4-d4ddc1ca04e7" />
 
+<img width="750" height="287" alt="image" src="https://github.com/user-attachments/assets/67bd50b9-0833-4cb6-b604-147319aeca21" />
+
+
 ## Key Insights
 ### Total Revenue:
 - The dataset generated $22.9M+ in total sales across all regions and product categories.
@@ -84,8 +87,10 @@ Designed an Excel dashboard using:
 - The highest quantities sold align closely with months of higher total revenue.
 
 ### Yearly Performance
-- 2023 recorded the highest total sales, followed closely by 2024.
-- Overall, sales show a positive upward trend year-over-year, indicating business growth.
+- 2023 recorded the highest total sales.
+- 2020 follows as the second-highest performing year.
+- 2022 and 2024 show moderate performance.
+- 2021 recorded the lowest total sales among the years analyzed.
 
 ### Product-Level Insights
 - High-value products such as MacBooks, iPads, and Apple Watches significantly impact revenue despite lower unit volumes.
@@ -93,6 +98,6 @@ Designed an Excel dashboard using:
 
 ## Repository Structure
 - APPLE RETAIL SALE.ipynb — code for loading and merging datasets
-- we_knows_full.csv — cleaned and fully joined dataset
+- we_knows_full.xlsx — cleaned and fully joined dataset
 - regional sales dashboard.png — pivot tables and dashboard
 - README.md — project documentation
