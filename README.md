@@ -54,7 +54,7 @@ Designed an Excel dashboard using:
 - <a href= "https://github.com/ugonnaaa/Apple-Global-Sales-Analysis-Python-Excel-Dashboard/blob/main/APPLE%20RETAIL%20SALE.ipynb">Python script</a>
 
 ## Dashboard
-<img width="519" height="223" alt="Retail Sale Dashboard" src="https://github.com/user-attachments/assets/261414ff-ce82-485f-9ad5-ddc530aeef5a" />
+<img width="778" height="304" alt="regional retail sales dashboard" src="https://github.com/user-attachments/assets/1c361367-2df5-4871-87b4-d4ddc1ca04e7" />
 
 ## Key Insights
 ### Total Revenue:
