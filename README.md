@@ -51,7 +51,7 @@ Designed an Excel dashboard using:
 - Consolidated visuals into a single analytics page
 
 ## Python Script (Used for Table Joins)
-- <a href= "https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset?resource=download&select=sales.csv](https://github.com/ugonnaaa/Apple-Global-Sales-Analysis-Python-Excel-Dashboard/blob/main/APPLE%20RETAIL%20SALE.ipynb">Python script</a>
+- <a href= "https://github.com/ugonnaaa/Apple-Global-Sales-Analysis-Python-Excel-Dashboard/blob/main/APPLE%20RETAIL%20SALE.ipynb">Python script</a>
 
 ## Dashboard
 <img width="519" height="223" alt="Retail Sale Dashboard" src="https://github.com/user-attachments/assets/261414ff-ce82-485f-9ad5-ddc530aeef5a" />
